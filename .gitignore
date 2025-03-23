@@ -1,0 +1,11 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Parcel cache
+.parcel-cache/
+
+# Ignore build files (optional)
+dist/
+
+# Ignore VS Code settings (optional)
+.vscode/
